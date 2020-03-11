@@ -1,0 +1,14 @@
+Thank you for purchasing Perk Mod.
+
+/* Installing */
+Drop perkmod folder into addons folder
+
+/* How it works /*
+Players gain exp and points by winning and killing. Every 5 level they get 1 point which they can spend on a perk.
+
+/* How to add and mod perks */
+http://www.youtube.com/watch?v=9FTOT3K-AME
+
+
+/* Misc /*
+Now also supports deathrun by mr. gash, stronghold, and darkrp.

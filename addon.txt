@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"			"Perk Mod"
+	"version"		"2.3"
+	"up_date"		"Feburary 21st, 2014"
+	"author_name"	"Clark (Aide)"
+	"author_email"	""
+	"author_url"	"www.Havocgamers.net"
+	"info"			""
+	"override"		"0"
+}
